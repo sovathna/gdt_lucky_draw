@@ -1,0 +1,3 @@
+[submodule "eTaxCore"]
+	path = eTaxCore
+	url = git@github.com:Saoleng/eTaxCore.git
